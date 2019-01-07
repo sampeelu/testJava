@@ -5,6 +5,8 @@ public class ReverseWord {
 
 	public static void main(String[] args) { 
 
+		
+		// reverse
 		String str = "Good morning to everyone"; 
 
 		String strArray[] = new String[] {"Good" ,"morning" ,"to"," everyone"};

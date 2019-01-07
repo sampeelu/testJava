@@ -3,7 +3,7 @@ public class ConceptOne {
 
 	public static void main(String[] args) {
 		
-		
+		// concept
 				
 		
 		char []ch = {'j','a','v','a'};

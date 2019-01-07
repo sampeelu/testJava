@@ -4,7 +4,7 @@ public class Access {
 	Sample a= new Sample();
 	a.getBalance();
 
-	// this is first file commit //
+	// this is first file commit  2nd//
 	
 	int i;
 	for(i=0;i<5;i++) {

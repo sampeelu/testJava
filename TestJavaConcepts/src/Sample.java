@@ -1,5 +1,7 @@
 
 public class Sample {
+	
+	/ sample
 			private int account_number;
 			int account_balance; 
 			    // getter method
